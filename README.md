@@ -10,7 +10,7 @@
 
 🎯 My goal is to become a skilled frontend developer, one project at a time. I'm focused on learning best practices, writing clean code, and exploring new tools as I grow.
 
-📫 I'm always open to feedback, advice, or collaboration. Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/alweasi15).
+📫 I'm always open to feedback, advice, or collaboration. Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/alweasi).
 
 Thanks for visiting my GitHub! 🚀
 
